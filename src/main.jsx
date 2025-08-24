@@ -13,7 +13,6 @@ createRoot(document.getElementById('root')).render(
     <div className = "container mx-auto px-6">
       <Navbar />
       <App />
-      <Footer/>
     </div>
   </StrictMode>,
 )
